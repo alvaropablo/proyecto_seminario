@@ -5,6 +5,11 @@ form{
   	transform: translate(-55%, -50%);
 	position: absolute;
 }
+table{
+	background: #a56734;
+	margin: auto;
+	border-radius: 5px; 
+}
 input{
 	margin: auto;
 }
